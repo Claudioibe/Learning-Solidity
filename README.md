@@ -1,2 +1,3 @@
-# Learning-Solidity
-Hi! This is the repository that will house all my files and projects for my learning journey in solidity
+# Learning Solidity
+## My learning resources will include [Cryptozombies](cryptozombies.io) , [The Smart Contract Programmer](smartcontract.programmer) & [Patrick Collins](https://www.youtube.com/c/PatrickCollins)
+###  This is the repo that will house most of my files and projects during my journey...
