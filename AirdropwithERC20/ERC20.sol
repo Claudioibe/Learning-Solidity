@@ -3,8 +3,8 @@ pragma solidity ^0.8.0;
 
 contract TestToken { 
 
-    string public name = "Test Token";
-    string  public symbol = "ts";
+    string public name = "Fishy Fighters Token";
+    string  public symbol = "FFT";
     uint256 public totalSupply_ = 1000000000000000000000000; // 1 million tokens
     uint8   public decimals = 18;
     
